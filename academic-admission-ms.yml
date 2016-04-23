@@ -1,4 +1,4 @@
 info:
-  component: Academic Api Gateway
+  component: Academic Admission Microservice
   
-message: Hello World, Spring Cloud!, and github
+message: Hello World, Spring Cloud!, and github.
