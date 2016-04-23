@@ -1,3 +1,6 @@
+server:
+  port: 0
+
 eureka:
   instance:
     lease-renewal-interval-in-seconds: 3
