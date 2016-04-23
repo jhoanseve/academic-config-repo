@@ -3,3 +3,5 @@ server:
 
 info:
   component: Academic Admission Microservice
+  
+message: Hello World!
