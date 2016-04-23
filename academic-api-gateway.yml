@@ -1,0 +1,13 @@
+zuul:
+  #ignoredServices: "*"
+  prefix: /api
+  #routes:
+   # product: /product/**
+
+info:
+  component: Academic Api Gateway
+  
+server:
+  port: 8080
+  #ssl:
+  #  enabled: false
